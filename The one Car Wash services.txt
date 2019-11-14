@@ -1,0 +1,24 @@
+<html>
+<title>
+THE ONE CAR WASH SERVICES
+</title>
+<body>
+<h1>
+<font size="16" face="monotype corsiva" color=purple>
+The One Car Wash Services
+</font>
+</h1>
+
+<font color=Red size="10" style= "Timesnewroman"> 
+
+Don't just wash your car, super shine it! For a nice fresh day, wash your dirt away. Get in. Get out.<br>
+<br>
+Here at the one car washing services we ensure that your car gets the treatment it deserves and you will also be as  happy as your car when you leave The One Car Wash services
+
+<b>About us<br>support<br>Membership<br>Terms and conditions</b>
+ </font>
+
+</body>
+</html>
+
+
